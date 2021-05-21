@@ -3,7 +3,7 @@ spider-box  -  Information Gathering
 
    1.
    
-        git clone https://github.com/h4shur/spider-box.git
+    git clone https://github.com/h4shur/spider-box.git
 
 2.
 
