@@ -48,7 +48,6 @@ class Tools:
         [ 11 ]  -  shell Finder
         [ 12 ]  -  Show HTTP Header  
         [ 13 ]  -  Wordpress username admins
-        [ 14 ]  -  crack
         
         {RESET}
         """)
