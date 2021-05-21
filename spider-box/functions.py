@@ -37,16 +37,16 @@ class Tools:
         {GREEN}
         [ 1 ]   -  Server Whois
         [ 2 ]   -  Dns Checker
-        [ 3 ]   -  bug finder
+        [ 3 ]   -  bug finder (321 page)
         [ 4 ]   -  cloudflare bypass
-        [ 5 ]   -  Sub Domains
-        [ 6 ]   -  WordPress Plugins
-        [ 7 ]   -  Admin Page Finder
-        [ 8 ]   -  admin directory items
+        [ 5 ]   -  Sub Domains (19656 sub domain)
+        [ 6 ]   -  WordPress Plugins (297 plugin)
+        [ 7 ]   -  Admin Page Finder (8185 page)
+        [ 8 ]   -  admin directory & page items (134 item)
         [ 9 ]   -  WebSite Information
         [ 10 ]  -  Port Scanner
-        [ 11 ]  -  shell Finder
-        [ 12 ]  -  Show HTTP Header  
+        [ 11 ]  -  shell Finder (154 page)
+        [ 12 ]  -  Show HTTP Header
         [ 13 ]  -  Wordpress username admins
         
         {RESET}
