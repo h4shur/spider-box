@@ -8,6 +8,7 @@ try:
     
 except:
     os.system("pip install socket.py")
+    os.system("pip install requests")
     os.system("pip install python-whois")
     os.system("pip install ipwhois")
 
