@@ -10,7 +10,7 @@ spider-box  -  Information Gathering
     cd spider-box/spider-box
 3.
 
-    python main.py
+    python3 main.py
 
 tip :
 Libraries are downloaded and installed when the tool is opened
